@@ -1,4 +1,4 @@
-# Status
+# Monitor Panel
 ![Overleaf Data Backup](https://cronitor.io/badges/zf7CKH/production/to3QgAR4Knr9dsCSXZDb0RoexFQ.svg)
 ## Local Overleaf Data Backup
 ![Overleaf Data Backup](https://cronitor.io/badges/zf7CKH/production/to3QgAR4Knr9dsCSXZDb0RoexFQ/detailed.svg)
